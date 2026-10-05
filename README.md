@@ -1,0 +1,2 @@
+# BI_2924028_Lastri_Yanti
+Business Intelligence Assignment
